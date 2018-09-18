@@ -11,10 +11,13 @@ You can also add resources for D365 for Operations and AX2012.
 
 
 ## Official Docs
+[Development and administration for Finance and Operations](https://docs.microsoft.com/de-de/dynamics365/unified-operations/dev-itpro/)
 
 ## Talks
+[FastTrack Dynamics 365 for Finance & Operations - Enterprise Edition - Tech Talks](https://infopedia.eventbuilder.com/index?landingpageid=92tzhl)
 
 ## Videos
+
 
 ## Contributors
 
